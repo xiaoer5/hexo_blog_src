@@ -17,6 +17,8 @@ EHT PHY support:
 - DL MU-MIMO
 - UL MU-MIMO
 
+<!--more-->
+
 DL-MIMO and UL-MIMO are support as following conditions:
 - entire PPDU bandwidth
 - portions of the PPDU bandwidth, with assigned RU >= 242 tones

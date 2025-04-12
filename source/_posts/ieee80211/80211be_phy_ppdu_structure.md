@@ -19,6 +19,7 @@ EHT STA the structure of PPDU is determined by the TXVECTOR parameters
   - HT_GF: 11n
   - VHT: 11ac
   - HE_SU: 11ax SU
+<!--more-->
   - HE_ER_SU: 11ax ER SU
   - HE_MU: 11ax MU
   - HE_TB:  11ax TB

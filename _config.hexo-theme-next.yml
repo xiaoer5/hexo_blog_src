@@ -239,6 +239,11 @@ footer:
 # Post Settings
 # See: https://theme-next.js.org/docs/theme-settings/posts
 # ---------------------------------------------------------------
+excerpt:
+  depth: 5
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
 
 # Use `description` in front-matter to specify post excerpt.
 excerpt_description: true
