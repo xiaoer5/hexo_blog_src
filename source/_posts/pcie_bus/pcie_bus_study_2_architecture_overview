@@ -1,0 +1,26 @@
+---
+title: PCIe Architectural Perspective
+date: 2025-04-11 07:58:30
+tags:
+    - [PCIe]
+categories:
+    - [PCIe]
+---
+
+introduction to the PCI Express data transfer protocol.
+
+- The layered approach to PCI Express device design
+
+- describe the function of each device layer
+
+
+
+PCI Express employs **packets** to accomplish data transfers between devices.
+
+root complex <== communication ==> endpoint
+
+endpoint <== communication ==> endpoint
+
+Communication involves the transmission and reception of packets called **TLP**(Transaction Layer packets)
+
+
